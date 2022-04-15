@@ -1,0 +1,25 @@
+{
+    "name": "humilde-css",
+    "version": "1.0.0",
+    "description": "A simple style to init new projects",
+    "directories": {
+        "example": "example"
+    },
+    "devDependencies": {
+        "@parcel/transformer-sass": "^2.4.1",
+        "parcel": "^2.4.1"
+    },
+    "scripts": {
+        "dev": "npx parcel example/index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rodrigo-brito/humilde-css.git"
+    },
+    "author": "Rodrigo Brito",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rodrigo-brito/humilde-css/issues"
+    },
+    "homepage": "https://github.com/rodrigo-brito/humilde-css#readme"
+}

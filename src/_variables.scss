@@ -1,0 +1,22 @@
+// fonts
+$font-family: 'Montserrat', Helvetica, sans-serif;
+$font-weight-light: 300;
+$font-weight-regular: 400;
+$font-weight-heavy: 700;
+$font-height: 1.5;
+
+// grid
+$width: 96%;
+$gutter: 4%;
+$breakpoint-small: 33.75em; // 540px
+$breakpoint-med: 45em; // 720px
+$breakpoint-large: 60em; // 960px
+$column-gap: 0.75rem !default;
+
+// colors
+$primary: #06d6a0;
+$primary-dark: darken($primary, 20%);
+$complementary: #118ab2;
+$gray-lightest: #cccccc;
+$gray-light: #999999;
+$gray-dark: #293241;
